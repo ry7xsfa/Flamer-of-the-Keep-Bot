@@ -1,4 +1,3 @@
-from ast import Call
 from telegram.update import Update
 from telegram.ext import CallbackContext
 
